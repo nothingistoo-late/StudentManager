@@ -40,7 +40,6 @@ namespace StudentTesterV3
             // 99% CÁC CLASS NAYUF ĐC THIẾT KẾ ĐỂ CHỨA NHIỀU OBJECT, VÌ VẬY NÓ PHẢI LOOSE COUPLING, TỨC LÀ NÓ HẦU HẾT LÀ GENERIC
             // MUỐN XÀI NÓ THÌ PHẢI NÓI RẰNG CHƯA OBJECT GÌ
             // TỨC LÀ <??> <DATA TYPE MÚN CHỨA!!>
-            Console.WriteLine("Test");
             
         }
         static void PllayWithGeneric(string[] args)
