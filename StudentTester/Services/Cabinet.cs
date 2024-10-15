@@ -62,6 +62,8 @@ namespace StudentTesterV3.Services
 
         // hàm add student, cái tủ mở cánh cửa ra, đổ hồ sơ vào
         // ui console, web form/ window có mấy ô nhập:id, name, yob, gpa, có nút nhấm, new Student(){} đẩy xuống 
+
+
         public void AddStudent(Student s)
         {
             if (_arr.Length == _count)
